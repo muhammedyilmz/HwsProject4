@@ -7,7 +7,7 @@ Uygulama da yükleme çubuğu, reset butonu ve istenilen web sayfasına erişim 
 * İzin verilmeyen URL için hata mesajı
 * Önceki sayfa
 * Sonraki sayfa
-* Table view ile tablodan istenilen web sayfasına tıklanarak web sayfasına gitmeyi sağladım.
+* Table view ile tablodan istenilen web sayfasına tıklanarak web sayfasına gitmeyi sağladım
 
 ##### Uygulamanın Örnek Resimleri
 
